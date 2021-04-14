@@ -26,6 +26,6 @@ npm start
 ```
 finally, in a new console windown 
 ```console
-npm server
+npm run server
 ``` 
 to start the json-server (fake REST api)
