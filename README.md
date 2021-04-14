@@ -14,6 +14,7 @@ To get started with this project, simply do the following...
 ```console
 git clone https://github.com/ovandenbosch/Trackify/
 cd trackify
+npm install
  ```
 then
 ```console
