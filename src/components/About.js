@@ -8,7 +8,7 @@ const About = () => {
 
           <Link to="https://github.com/ovandenbosch/Trackify">Github Repository for this project</Link>
           <br/>
-          <Link to="https://ovdb.tech">My Website</Link>
+          <a href="https://ovdb.tech">My Website</a>
         </p>
         <br/>
         <br/>
