@@ -1,16 +1,3 @@
 {
-  "tasks": [
-    {
-      "text": "Go to the beach",
-      "day": "Monday 5th January",
-      "reminder": false,
-      "id": 1
-    },
-    {
-      "text": "Eat Pizza",
-      "day": "4th July",
-      "reminder": true,
-      "id": 2
-    }
-  ]
+  "tasks": []
 }
